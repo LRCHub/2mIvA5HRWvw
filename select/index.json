@@ -1,0 +1,248 @@
+{
+  "version": 1,
+  "base_track": "DESERVE YOU",
+  "base_artist": "The Kid LAROI",
+  "createdAt": "2026-03-08T19:41:33.690046Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Don't Deserve You",
+      "artist": "Plumb & Paul van Dyk",
+      "has_synced": false,
+      "path": "select/01_I_Don't_Deserve_You_Plumb_&_Paul_van_Dyk.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Deserve You",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/02_Deserve_You_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Don't Deserve You",
+      "artist": "Paul van Dyk feat. Plumb",
+      "has_synced": false,
+      "path": "select/03_I_Don't_Deserve_You_Paul_van_Dyk_feat._Plumb.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "He Don't Deserve You Anymore",
+      "artist": "Vince Gill feat. Paul Franklin",
+      "has_synced": true,
+      "path": "select/04_He_Don't_Deserve_You_Anymore_Vince_Gill_feat._Paul_Franklin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "To Deserve You",
+      "artist": "Bette Midler",
+      "has_synced": true,
+      "path": "select/05_To_Deserve_You_Bette_Midler.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "To Deserve You (Album Version)",
+      "artist": "Bette Midler",
+      "has_synced": false,
+      "path": "select/06_To_Deserve_You_(Album_Version)_Bette_Midler.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "To Deserve You (Arif's Club Mix)",
+      "artist": "Bette Midler",
+      "has_synced": false,
+      "path": "select/07_To_Deserve_You_(Arif's_Club_Mix)_Bette_Midler.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "To Deserve You (Arif's Dance radio mix)",
+      "artist": "Bette Midler",
+      "has_synced": false,
+      "path": "select/08_To_Deserve_You_(Arif's_Dance_radio_mix)_Bette_Midler.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "To Deserve You (Arif's Radio Mix)",
+      "artist": "Bette Midler",
+      "has_synced": false,
+      "path": "select/09_To_Deserve_You_(Arif's_Radio_Mix)_Bette_Midler.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "To Deserve You (Bonzai club mix)",
+      "artist": "Bette Midler",
+      "has_synced": false,
+      "path": "select/10_To_Deserve_You_(Bonzai_club_mix)_Bette_Midler.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "To Deserve You (Bonzai's 'Die 4' mix)",
+      "artist": "Bette Midler",
+      "has_synced": false,
+      "path": "select/11_To_Deserve_You_(Bonzai's_'Die_4'_mix)_Bette_Midler.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "To Deserve You (Bonzai's Die 4 Mix)",
+      "artist": "Bette Midler",
+      "has_synced": false,
+      "path": "select/12_To_Deserve_You_(Bonzai's_Die_4_Mix)_Bette_Midler.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "To Deserve You (MK mix)",
+      "artist": "Bette Midler",
+      "has_synced": false,
+      "path": "select/13_To_Deserve_You_(MK_mix)_Bette_Midler.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "To Deserve You - single remix",
+      "artist": "Bette Midler",
+      "has_synced": false,
+      "path": "select/14_To_Deserve_You_-_single_remix_Bette_Midler.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "To Deserve You (Single Remix)",
+      "artist": "Bette Midler",
+      "has_synced": false,
+      "path": "select/15_To_Deserve_You_(Single_Remix)_Bette_Midler.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "You Don't Deserve Me",
+      "artist": "Embla and the Karidotters",
+      "has_synced": true,
+      "path": "select/16_You_Don't_Deserve_Me_Embla_and_the_Karidotters.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Deserve It",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/17_I_Deserve_It_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "What You Deserve",
+      "artist": "Echobelly",
+      "has_synced": false,
+      "path": "select/18_What_You_Deserve_Echobelly.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "You Never Get What You Deserve",
+      "artist": "Starsailor",
+      "has_synced": true,
+      "path": "select/19_You_Never_Get_What_You_Deserve_Starsailor.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Dëserve it",
+      "artist": "Yeat",
+      "has_synced": true,
+      "path": "select/20_Dëserve_it_Yeat.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "You Get What You Deserve",
+      "artist": "Big Star",
+      "has_synced": true,
+      "path": "select/21_You_Get_What_You_Deserve_Big_Star.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "So Little Deserve",
+      "artist": "Heavenly",
+      "has_synced": false,
+      "path": "select/22_So_Little_Deserve_Heavenly.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Deserve It",
+      "artist": "Big Sean feat. PARTYNEXTDOOR",
+      "has_synced": true,
+      "path": "select/23_Deserve_It_Big_Sean_feat._PARTYNEXTDOOR.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Deserve It (feat. Partynextdoor)",
+      "artist": "Big Sean",
+      "has_synced": true,
+      "path": "select/24_Deserve_It_(feat._Partynextdoor)_Big_Sean.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "More Than You Deserve",
+      "artist": "Anouk",
+      "has_synced": true,
+      "path": "select/25_More_Than_You_Deserve_Anouk.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "More Than You Deserve",
+      "artist": "Anouk",
+      "has_synced": true,
+      "path": "select/26_More_Than_You_Deserve_Anouk.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Deserve",
+      "artist": "Knifeplay",
+      "has_synced": true,
+      "path": "select/27_Deserve_Knifeplay.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "You Deserve It",
+      "artist": "Future",
+      "has_synced": true,
+      "path": "select/28_You_Deserve_It_Future.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "You Deserve It",
+      "artist": "Future",
+      "has_synced": false,
+      "path": "select/29_You_Deserve_It_Future.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DESERVE YOU",
+      "artist": "The Kid LAROI",
+      "has_synced": false,
+      "path": "select/pl_01_DESERVE_YOU_The_Kid_LAROI.txt"
+    }
+  ]
+}
